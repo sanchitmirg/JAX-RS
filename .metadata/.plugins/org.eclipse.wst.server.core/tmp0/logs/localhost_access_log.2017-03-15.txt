@@ -6,3 +6,6 @@
 0:0:0:0:0:0:0:1 - - [15/Mar/2017:10:56:14 +0530] "GET /messenger/webapi/messages HTTP/1.1" 500 1039
 0:0:0:0:0:0:0:1 - - [15/Mar/2017:10:58:57 +0530] "GET /messenger/webapi/messages HTTP/1.1" 500 1039
 0:0:0:0:0:0:0:1 - - [15/Mar/2017:10:59:01 +0530] "GET /messenger/webapi/messages HTTP/1.1" 500 1039
+127.0.0.1 - - [15/Mar/2017:10:59:11 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [15/Mar/2017:10:59:15 +0530] "GET /messenger/webapi/messages HTTP/1.1" 500 1039
+0:0:0:0:0:0:0:1 - - [15/Mar/2017:10:59:26 +0530] "GET /messenger/webapi/messages HTTP/1.1" 200 243
