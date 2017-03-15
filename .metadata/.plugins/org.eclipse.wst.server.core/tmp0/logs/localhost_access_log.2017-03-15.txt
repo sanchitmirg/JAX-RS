@@ -1,0 +1,8 @@
+127.0.0.1 - - [15/Mar/2017:10:24:03 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [15/Mar/2017:10:24:04 +0530] "GET /messenger/webapi/messages HTTP/1.1" 200 12
+0:0:0:0:0:0:0:1 - - [15/Mar/2017:10:24:04 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [15/Mar/2017:10:55:32 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [15/Mar/2017:10:55:44 +0530] "GET /messenger/webapi/messages HTTP/1.1" 404 967
+0:0:0:0:0:0:0:1 - - [15/Mar/2017:10:56:14 +0530] "GET /messenger/webapi/messages HTTP/1.1" 500 1039
+0:0:0:0:0:0:0:1 - - [15/Mar/2017:10:58:57 +0530] "GET /messenger/webapi/messages HTTP/1.1" 500 1039
+0:0:0:0:0:0:0:1 - - [15/Mar/2017:10:59:01 +0530] "GET /messenger/webapi/messages HTTP/1.1" 500 1039

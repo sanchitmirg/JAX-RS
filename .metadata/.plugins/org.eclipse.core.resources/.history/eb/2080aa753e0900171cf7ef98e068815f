@@ -1,0 +1,5 @@
+package org.sanchit.services.messenger.service;
+
+public class MessageService {
+
+}
