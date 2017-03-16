@@ -1,0 +1,9 @@
+package org.sanchit.service.messenger.database;
+
+import java.util.HashMap;
+
+public class DatabaseClass {
+
+	private static Map<Long, Message> messages = new HashMap<>();
+	
+}

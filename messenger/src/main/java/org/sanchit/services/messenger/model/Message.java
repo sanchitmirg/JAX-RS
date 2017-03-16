@@ -14,7 +14,7 @@ public class Message {
 		
 		public Message(){
 			
-		}
+		} 
 		
 		public Message(long id, String message, String author){
 			this.id = id;
