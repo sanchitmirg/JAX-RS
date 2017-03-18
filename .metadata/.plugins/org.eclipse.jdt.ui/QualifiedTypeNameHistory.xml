@@ -8,6 +8,9 @@
 <fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
 <fullyQualifiedTypeName name="org.sanchit.services.messenger.service.MessageService"/>
 <fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="org.sanchit.services.messenger.model.Message"/>
 <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
+<fullyQualifiedTypeName name="org.sanchit.services.messenger.model.Profile"/>
+<fullyQualifiedTypeName name="org.sanchit.services.messenger.model.Message"/>
+<fullyQualifiedTypeName name="org.sanchit.service.messenger.database.DatabaseClass"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
 </qualifiedTypeNameHistroy>

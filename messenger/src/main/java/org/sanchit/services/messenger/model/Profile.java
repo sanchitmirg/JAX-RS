@@ -19,6 +19,7 @@ public class Profile {
 		this.profileName = profileName;
 		this.message = message;
 		this.author = author;
+		
 	}
 	
 	public String getProfileName() {

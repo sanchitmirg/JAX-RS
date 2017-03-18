@@ -9,13 +9,13 @@ public class DatabaseClass {
 
 	private static HashMap<Long,Message> messages = new HashMap<>();
 	
-	private static HashMap<Long,Profile> profiles = new HashMap<>();
+	private static HashMap<String,Profile> profiles = new HashMap<>();
 	
 	public static HashMap<Long, Message>  getMessage(){
 		return messages;
 	}
 	
-	public static HashMap<Long,Profile> getProfile(){
+	public static HashMap<String,Profile> getProfile(){
 		return profiles;
 	}
 	
